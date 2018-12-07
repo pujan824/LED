@@ -4,7 +4,7 @@
 #error "Requires FastLED 3.1 or later; check github for latest code."
 #endif
 
-#define LED_DT 1                                             // Data pin
+#define LED_DT 12                                             // Data pin
 #define COLOR_ORDER BGR                                      
 #define LED_TYPE WS2811                                      
 #define NUM_LEDS 50                                           
